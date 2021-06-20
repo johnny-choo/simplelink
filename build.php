@@ -1,7 +1,7 @@
 <?php
-$link=$_POST["link"];
-if(strpos($link, "http://") !== false||strpos($link, "https://") !== false){
-  //do nothing   
+if (isset($_POST["link"])) {
+  $link=$_POST["link"];
+ if(strpos($link, "http://") !== false||strpos($link, "https://") !== false){   
 }else{$link="http://".$link;}
 $short=$_POST["short"];
 if (file_exists($short)) {
@@ -33,5 +33,6 @@ function myFunction() {
   document.execCommand("copy");
 }
 </script>';
+} 
 }
 ?>
