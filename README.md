@@ -1,6 +1,6 @@
 <!-- PHP LINK SHORTENER -->
-## php-link-shortener
-PHP link shortener with only 2 files and without database.
+## php-url-shortener
+PHP URL shortener with only 2 files and without database.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -48,4 +48,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Email - choo21617@gmail.com
 
-Project Link: [https://github.com/johnny-choo/php-link-shortener](https://github.com/johnny-choo/php-link-shortener)
+Project Link: [https://github.com/johnny-choo/php-url-shortener](https://github.com/johnny-choo/php-url-shortener)
