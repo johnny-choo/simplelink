@@ -1,5 +1,5 @@
-<!-- PHP LINK SHORTENER -->
-## php-url-shortener
+<!-- simplelink -->
+## simplelink
 PHP URL shortener with only 2 files and without database.
 
 <!-- GETTING STARTED -->
@@ -48,4 +48,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Email - choo21617@gmail.com
 
-Project Link: [https://github.com/johnny-choo/php-url-shortener](https://github.com/johnny-choo/php-url-shortener)
+Project Link: [https://github.com/johnny-choo/simplelink](https://github.com/johnny-choo/simplelink)
