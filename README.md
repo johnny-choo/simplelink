@@ -1,2 +1,51 @@
-# link-shortener
-php link shortener with just 2 files and without database.
+<!-- PHP LINK SHORTENER -->
+## php-link-shortener
+PHP link shortener with only 2 files and without database.
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+### Installation
+
+1. Download the code.
+2. Upload the files to your root folder
+3. Ta-da your link shortener website is now ready
+
+
+
+<!-- DEMO -->
+## Demo
+
+https://johnnychoo.000webhostapp.com
+
+<!-- SUPPORT -->
+## Support
+Support me by starring my project
+
+
+<!-- CONTRIBUTING -->
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+
+
+<!-- CONTACT -->
+## Contact
+
+Email - choo21617@gmail.com
+
+Project Link: [https://github.com/johnny-choo/php-link-shortener](https://github.com/johnny-choo/php-link-shortener)
