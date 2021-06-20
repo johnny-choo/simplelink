@@ -1,5 +1,5 @@
 <!-- simplelink -->
-## simplelink
+# simplelink
 PHP URL shortener with only 2 files and without database.
 
 <!-- GETTING STARTED -->
