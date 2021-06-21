@@ -1,5 +1,6 @@
 <!-- simplelink -->
 ![simplelink](simplelink.png)
+
 # simplelink
 PHP URL shortener with only 2 files and without database
 
@@ -10,7 +11,7 @@ PHP URL shortener with only 2 files and without database
 
 1. Download the code
 2. Upload the files to your root folder
-3. Ta-da your link shortener website is now ready
+3. Ta-da your url shortener website is now ready
 
 
 
