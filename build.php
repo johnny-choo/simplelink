@@ -1,9 +1,10 @@
 <?php
-if (isset($_POST["link"])) {
+if (!empty($_POST['link'])&&!empty($_POST['short'])) {
   $link=$_POST["link"];
- if(strpos($link, "http://") !== false||strpos($link, "https://") !== false){   
-}else{$link="http://".$link;}
-$short=$_POST["short"];
+  
+ if(strpos($link, "http://") !== 0||strpos($link, "https://") !== 0){
+  if (filter_var($link, FILTER_VALIDATE_URL)) {
+    $short=$_POST["short"];
 if (file_exists($short)) {
     echo "<h1 style='text-align:center;'>short link already exist</h1>";
 } else {
@@ -34,5 +35,8 @@ function myFunction() {
 }
 </script>';
 } 
+  }
+}
+
 }
 ?>
