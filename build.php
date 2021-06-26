@@ -23,7 +23,7 @@ input{
   border: 1px solid #ccc;
   border-radius: 4px;
   resize: vertical;
-}</style><h1 style="text-align:center;"><input type="text" value="https://'.$_SERVER['HTTP_HOST']."/".$short.'" id="myInput">
+}</style><h1 style="text-align:center;"><input type="text" value="http://'.$_SERVER['HTTP_HOST']."/".$short.'" id="myInput">
 <button onclick="myFunction()">Copy text</button></h1>
 
 <script>
