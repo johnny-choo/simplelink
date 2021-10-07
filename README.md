@@ -37,7 +37,7 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
+if you want to contribute to the css make sure you have sass installed <a href="https://sass-lang.com/guide">Download here:</a>
 <!-- LICENSE -->
 ## License
 
