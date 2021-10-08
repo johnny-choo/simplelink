@@ -1,11 +1,11 @@
 <!-- simplelink -->
 ![simplelink](simplelink.png)
 
-# simplelink
+# Simplelink
 PHP URL shortener with only 2 files and without database
 
 <!-- GETTING STARTED -->
-## Getting Started
+# Getting Started
 
 ### Installation
 
