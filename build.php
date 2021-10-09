@@ -35,8 +35,8 @@ function myFunction() {
 }
 </script>';
 } 
-  }
-}
+  }else{echo "it is not a valid link";}
+}else{echo "it is not a valid link";}
 
 }
 ?>
