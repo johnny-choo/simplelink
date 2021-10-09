@@ -43,7 +43,10 @@ if you want to contribute to the css make sure you have sass installed <a href="
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+<!-- CONTRIBUTION -->
+## Contribution Made
 
+1. external css - https://github.com/johnny-choo/simplelink/tree/external-css
 
 <!-- CONTACT -->
 ## Contact
