@@ -2,12 +2,18 @@
 ![simplelink](simplelink.png)
 
 # Simplelink
-PHP URL shortener with only 2 files and without database
+PHP URL shortener with only 1 file and without database
+Previous version - HTML and PHP files seperated
 
 <!-- GETTING STARTED -->
 # Getting Started
 
 ### Installation
+Source code files:
+**Only 1 php file**
+1 file: https://github.com/johnny-choo/simplelink/blob/main/1-file.zip?raw=true
+**1 html & 1 php**
+2 files: https://github.com/johnny-choo/simplelink/blob/main/2-files.zip?raw=true
 
 1. Download the code
 2. Upload the files to your root folder
